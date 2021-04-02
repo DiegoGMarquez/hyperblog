@@ -35,12 +35,12 @@ body{
 #container h1{
     font-size: 20px;
 }
-<<<<<<< HEAD
 
 #post{
     background: white;
     padding: 1em;
-=======
+}
+
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
@@ -52,5 +52,4 @@ body{
     text-align: center;
     padding: 0.3em;
 
->>>>>>> footer
 }
